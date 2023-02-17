@@ -1,6 +1,5 @@
 
 <h1>Hi there, I'm Fairuz Maliha 👋</h1>
-<h3 align="left">Sr. Project Manager @ BJIT Ltd. | ICT Instructor @ BJET & BJIT Academy</h3>
 I'm a passionate Full Stack Web Developer from Bangladesh with over 10 years of experience in building web applications using ASP.NET , ReactJS, HTML, CSS, mongoDB, etc.
 
 ## 👨🏽‍💻 What I'm doing now
