@@ -1,6 +1,6 @@
 
 <h1>Hi there, I'm Fairuz Maliha 👋</h1>
-I'm a passionate Full Stack Web Developer from Bangladesh with about 1.5 years of experience in building web applications using ASP.NET , JavaScript, HTML, CSS, MSSQL, etc. along with web and mobile app testing with cypress.
+I'm a passionate tech enthusiast from Bangladesh with about 1.5 years of experience in building web applications using ASP.NET , JavaScript, HTML, CSS, MSSQL, etc. along with web and mobile app testing with cypress.
 
 ## 👨🏽‍💻 What I'm doing now
 Currently, I'm receiving professional training under BJET.
