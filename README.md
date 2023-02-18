@@ -63,7 +63,7 @@ versions as well as smartphone OS and versions.
       readability for maintenance of PIC.
 2. Written documentation and user manual for the project.
 3. Written functional tests and performed tests before 
-   delivery.
+   delivery.<br />
 Technologies used: [ASP.Net, Webforms, JavaScript, Jquery , AJAX, HTML, CSS].
 
 ## 🎓 Education
