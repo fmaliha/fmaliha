@@ -44,7 +44,7 @@ testing to find hidden bugs to ensure product quality.
 versions as well as smartphone OS and versions.<br />
 . Technologies used: [Cypress, JavaScript].
 
-- Amber IT Ltd., [Software Engineer Intern], [9/2019 - 1.2020]<br />
+- Amber IT Ltd., [Software Engineer Intern], [9/2019 - 1/2020]<br />
 1. Developed a fully working Asp.net based school 
    management system from scratch for client.<br />
    a. Designed the project architecture i.e. technical design, 
