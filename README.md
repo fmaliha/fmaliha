@@ -45,8 +45,8 @@ versions as well as smartphone OS and versions.
 . Technologies used: [Cypress, JavaScript].
 
 - Amber IT Ltd., [Software Engineer Intern], [9/2019 - 1.2020]<br />
-  1. Developed a fully working Asp.net based school 
-     management system from scratch for client.
+1. Developed a fully working Asp.net based school 
+   management system from scratch for client.
    a. Designed the project architecture i.e. technical design, 
       business logic design, and frontend design using client 
       requirements. 
