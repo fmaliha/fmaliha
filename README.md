@@ -41,7 +41,7 @@ and test redos.
 5. Performed scheduled as well as random exploratory 
 testing to find hidden bugs to ensure product quality.
 6. Perform tests on versatile sets of browsers and their 
-versions as well as smartphone OS and versions.
+versions as well as smartphone OS and versions.<br />
 . Technologies used: [Cypress, JavaScript].
 
 - Amber IT Ltd., [Software Engineer Intern], [9/2019 - 1.2020]<br />
