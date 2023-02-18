@@ -46,24 +46,24 @@ versions as well as smartphone OS and versions.
 
 - Amber IT Ltd., [Software Engineer Intern], [9/2019 - 1.2020]<br />
   1. Developed a fully working Asp.net based school 
-management system from scratch for client.
- a. Designed the project architecture i.e. technical design, 
-business logic design, and frontend design using client 
-requirements. 
- b. Designed and implemented database architecture for 
-MSSQL database, using proper normalization rules. I have 
-implemented (stored procedures) database operational 
-logics to integrate app with DB.
- c. Implemented frontend UI using ASP.net for all pages.
- d. Implemented backend functionalities, link codes, 
-business logic for the service.
- e. Followed strict OOP SOLID rules while implementation 
-to ensure clean code.
- f. Written eloquent comments on code to ensure 
-readability for maintenance of PIC.
+     management system from scratch for client.
+   a. Designed the project architecture i.e. technical design, 
+      business logic design, and frontend design using client 
+      requirements. 
+   b. Designed and implemented database architecture for 
+      MSSQL database, using proper normalization rules. I have 
+      implemented (stored procedures) database operational 
+      logics to integrate app with DB.
+   c. Implemented frontend UI using ASP.net for all pages.
+   d. Implemented backend functionalities, link codes, 
+      business logic for the service.
+   e. Followed strict OOP SOLID rules while implementation 
+      to ensure clean code.
+   f. Written eloquent comments on code to ensure 
+      readability for maintenance of PIC.
 2. Written documentation and user manual for the project.
 3. Written functional tests and performed tests before 
-delivery.
+   delivery.
 Technologies used: [ASP.Net, Webforms, JavaScript, Jquery , AJAX, HTML, CSS].
 
 ## 🎓 Education
