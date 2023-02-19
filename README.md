@@ -26,6 +26,9 @@ I'm currently learning MERN  to improve my development skills and stay up-to-dat
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+## 💻 Pogramming Contest
+- Participated in BJET Code Samurai Programming Contest ,2023
+
 ## 💻 Work Experience
 - Ardites Bangladesh Ltd., [Software Test Engineer], [10/2021 - 9/2022]<br />
 1. For new and existing features on web service, write, 
@@ -67,10 +70,10 @@ versions as well as smartphone OS and versions.<br />
 Technologies used: [ASP.Net, Webforms, JavaScript, Jquery , AJAX, HTML, CSS].
 
 ## 🎓 Education
-- American International University Bangladesh, [MSc.], [2/2023]
-- American International University Bangladesh, [BSc.], [1/2020]
+- American International University Bangladesh, MSc., 2/2023
+- American International University Bangladesh, BSc., 1/2020
 
 ## 📚 Training
-- [Arificial Intelligence]
+- Arificial Intelligence
 
 ## 💻 Github Repositories
