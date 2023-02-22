@@ -30,7 +30,7 @@ I'm currently learning MERN  to improve my development skills and stay up-to-dat
 - Participated in BJET Code Samurai Programming Contest ,2023
 
 ## 💻 Work Experience
-- Ardites Bangladesh Ltd., [Software Test Engineer], [10/2021 - 9/2022]<br />
+- Ardites Bangladesh Ltd., [Software Test Engineer], [10/2021 - 12/2022]<br />
 1. For new and existing features on web service, write, 
 update test automation using cypress.
 2. For new builds, performed Blackbox testing, API testing
