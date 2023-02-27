@@ -3,7 +3,7 @@
 I'm a tech enthusiast from Bangladesh with about 1.7 years of experience in building web applications using ASP.NET , JavaScript, HTML, CSS, MSSQL, etc. along with web and mobile app testing with cypress.
 
 ## 👨🏽‍💻 What I'm doing now
-Currently, I'm receiving professional training under BJET.
+Currently, I'm receiving professional IT training under BJET.
 
 ## 🧠 What I'm currently learning
 I'm currently learning MERN  to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning and working hard pays off! 
