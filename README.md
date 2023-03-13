@@ -29,9 +29,6 @@ I'm currently learning MERN  to improve my development skills and stay up-to-dat
 ## 💻 Pogramming Contest
 - Participated in BJET Code Samurai Programming Contest ,2023
 
-## 🛠️ Screenshots of Project
-<img alt="Project Work" height="200" src="https://drive.google.com/file/d/1-PmJRxdQhZAhjkDGaF90AIO_TNwehTux/view?usp=sharing" style="max-width: 100%; display: inline-block;">
-
 ## 💻 Work Experience
 - Ardites Bangladesh Ltd., [Software Test Engineer], [10/2021 - 12/2022]<br />
 1. For new and existing features on web service, write, 
