@@ -30,7 +30,7 @@ I'm currently learning MERN  to improve my development skills and stay up-to-dat
 - Participated in BJET Code Samurai Programming Contest ,2023
 
 ## 🛠️ Screenshots of Project
-<img alt="Project Work" height="200" src="[https://miro.medium.com/v2/resize:fit:828/1*oeyjen1fL_SdX2w2_TCS6A.gif](https://drive.google.com/file/d/1-PmJRxdQhZAhjkDGaF90AIO_TNwehTux/view?usp=sharing)" style="max-width: 100%; display: inline-block;">
+<img alt="Project Work" height="200" src="https://drive.google.com/file/d/1-PmJRxdQhZAhjkDGaF90AIO_TNwehTux/view?usp=sharing" style="max-width: 100%; display: inline-block;">
 
 ## 💻 Work Experience
 - Ardites Bangladesh Ltd., [Software Test Engineer], [10/2021 - 12/2022]<br />
