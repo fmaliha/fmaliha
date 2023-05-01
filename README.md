@@ -6,7 +6,7 @@ I'm a tech enthusiast from Bangladesh with about 1.7 years of experience in buil
 Currently, I'm receiving professional IT training under BJET.
 
 ## 🧠 What I'm currently learning
-I'm currently learning MERN  to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning and working hard pays off! 
+I'm currently learning NodeJS  to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning and working hard pays off! 
 
 ## 🚀 Skills
 <p align="left"> 
