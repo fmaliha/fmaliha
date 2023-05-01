@@ -48,7 +48,7 @@ I'm currently learning MERN  to improve my development skills and stay up-to-dat
 8. Collaborated with an agile team, providing input for the product backlog, 
     sprint planning, story development, demos, and team retrospectives to ensure 
     alignment and timely delivery of high-quality products. <br />
-. Technologies used: [Cypress, JavaScript].
+Technologies used: [Cypress, JavaScript].
 
 - Amber IT Ltd., [Software Engineer Intern], [9/2019 - 1/2020]<br />
 1. Developed a fully working Asp.net based school 
