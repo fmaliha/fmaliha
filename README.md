@@ -31,20 +31,15 @@ I'm currently learning MERN  to improve my development skills and stay up-to-dat
 
 ## 💻 Work Experience
 - Ardites Bangladesh Ltd., [Software Test Engineer], [10/2021 - 12/2022]<br />
-1. For new and existing features on web service, write, 
-update test automation using cypress.
-2. For new builds, performed Blackbox testing, API testing
-functional testing, smoke testing, regression testing by 
-following set test methodologies for both web and 
-smartphone apps.
-3. Wrote test cases and documentation for new and existing 
-features.
-4. Report bugs using Clickup and following up with bugfixes 
-and test redos.
-5. Performed scheduled as well as random exploratory 
-testing to find hidden bugs to ensure product quality.
-6. Perform tests on versatile sets of browsers and their 
-versions as well as smartphone OS and versions.<br />
+1. For new and existing features on web service, write, and update test automation using cypress.
+2. For new builds, performed Blackbox testing, functional testing, smoke testing, and regression testing by following set test methodologies for both web and smartphone apps.
+3. Wrote test cases and documentation for new and existing features.
+4. Report bugs using Clickup and follow up with bugfixes, test redos to ensure efficient and effective resolution of issues.
+5. Performed scheduled as well as random exploratory testing to find hidden bugs to ensure product quality.
+6. Perform tests on versatile sets of browsers and their versions as well as smartphone OS and versions.
+7. Conducted API testing using Postman to ensure proper functionality and integration between web services and their corresponding APIs.
+8. Collaborated with an agile team, providing input for the product backlog, sprint planning, story development, demos, and team retrospectives to ensure alignment and timely delivery of high-quality products.
+<br />
 . Technologies used: [Cypress, JavaScript].
 
 - Amber IT Ltd., [Software Engineer Intern], [9/2019 - 1/2020]<br />
