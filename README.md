@@ -3,10 +3,10 @@
 I'm a tech enthusiast from Bangladesh with about 1.7 years of experience in building web applications using ASP.NET , JavaScript, HTML, CSS, MSSQL, etc. along with web and mobile app testing with cypress.
 
 ## 👨🏽‍💻 Currently working 
-I'm currently working as a Software Developer intern at Asia Japan ltd.
+I'm currently working as a Junior Software Engineer at Prime Bank IT.
 
 ## 🧠 What I'm currently learning
-I'm currently learning NodeJS  to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning and working hard pays off! 
+I'm currently learning JAVA  to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning and working hard pays off! 
 
 ## 🚀 Skills
 <p align="left"> 
