@@ -1,6 +1,6 @@
 
 <h1>Hi there, I'm Fairuz Maliha 👋</h1>
-I'm a tech enthusiast from Bangladesh with about 1.7 years of experience in building web applications using ASP.NET , JavaScript, HTML, CSS, MSSQL, etc. along with web and mobile app testing with cypress.
+I'm a tech enthusiast from Bangladesh with about 2 years of experience in building web applications using ASP.NET , JavaScript, HTML, CSS, MSSQL, etc. along with web and mobile app testing with cypress.
 
 ## 👨🏽‍💻 Currently working 
 I'm currently working as a Junior Software Engineer at Prime Bank IT.
